@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name              = "XGrowthAdsSdk"
-  s.version           = "1.6.0"
+  s.version           = "1.6.1"
   s.summary           = "XGrowth Ads SDK for iOS applications."
   s.description       = "XGrowth Ads SDK distributed as a vendored XCFramework for iOS."
   s.homepage          = "https://github.com/AdsxGrowth/ios-sdk"
